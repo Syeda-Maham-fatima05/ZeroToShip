@@ -11,7 +11,7 @@ This phase was developed using FastAPI, SQLAlchemy, MySQL, and JWT authenticatio
 
 ---
 
-live_demo:
+_live_demo:
 https://drive.google.com/file/d/1lCVZRc93Qbx-ggEVWi1ls0iEhxLQ8SVY/view?usp=sharing
 
 # Tech Stack
